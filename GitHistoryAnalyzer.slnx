@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GitHistoryAnalyzer.GuiTests/GitHistoryAnalyzer.GuiTests.csproj" />
+  <Project Path="GitHistoryAnalyzer/GitHistoryAnalyzer.csproj" />
+</Solution>
